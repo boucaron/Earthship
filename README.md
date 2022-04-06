@@ -33,7 +33,7 @@ Tires used as a kind of lost mold encapsulated **Rammed earth** as thermal mass 
 - http://www.earthbuilding.info/pdf/DVL_consumerinfo_gb.pdf
 - https://www.zrs.berlin/earth-building/
 
-Probably using a *pneumatic tamper* tool will speedup the process for the compaction of the material as shown in this video: https://www.youtube.com/watch?v=9aFrWWON8VE, it is also possible to find a cheaper electric one that can be used on a jack hammer (look for damper, compactor, tamper).
+Probably using a *pneumatic tamper* tool will speedup the process for the compaction of the material as shown in this video:  https://www.youtube.com/watch?v=9aFrWWON8VE, https://www.youtube.com/watch?v=HaGFrVGMzb4, it is also possible to find a cheaper electric one that can be used on a jack hammer (look for damper, compactor, tamper).
 It is also possible to automate the construction of the wall as shown here https://www.youtube.com/watch?v=4TXj5IIkUIY 
 
 
