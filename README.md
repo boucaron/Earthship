@@ -16,11 +16,16 @@ Actually it is an interesting way to build houses having a large amount of windo
 
 
 ## Windows
-The angle of the windows is quiet important: too hot or too cold. There is the so-called *Solar Declination* during the Winter the angle of the Earth is around -23.4 degrees while during the Spring around 0 degree and in the Summer around 23.4 degrees and Autumn 0 degree again
+The sizing and the orientation of the windows is important: too hot or too cold.
+On the angle of the windows. There is the so-called *Solar Declination* during the Winter the angle of the Earth is around -23.4 degrees while during the Spring around 0 degree and in the Summer around 23.4 degrees and Autumn 0 degree again
 https://www.suncalc.org/#/49.4966,5.985,14/2022.04.05/23:39/1/3 (check More solar data for Declination). 
 https://www.sciencedirect.com/topics/engineering/solar-declination
 The idea is to have for the Winter windows perpendicular to the rays so the sun heat up more and during the Summer less heat comes inside the house.
 ![alt text](https://www.researchgate.net/profile/Tafadzwa-Gurupira/publication/328262488/figure/fig3/AS:791102680469505@1565624985902/Illustration-of-the-solar-declination-angle.ppm "Declination")
+Problem with the angle of the windows, structurally not designed to have such a slopped angle, lot of rain/snow can accumulate on it.
+Problem the green-house is not separated physically separated with the home : humidity can be an issue. Most new designs have inside windows to separate from the green-house.
+Ventilation is required to prevent the green-house to become an oven.
+Light in the room can be an issue, probably light wells are required on the roof to have adequate light in the rooms. It depends on the place it is built.
 
 ## Materials
 The goal is to make it cheap and reuse as much material as possible.
@@ -35,6 +40,20 @@ Tires used as a kind of lost mold encapsulated **Rammed earth** as thermal mass 
 
 Probably using a *pneumatic tamper* tool will speedup the process for the compaction of the material as shown in this video:  https://www.youtube.com/watch?v=9aFrWWON8VE, https://www.youtube.com/watch?v=HaGFrVGMzb4, it is also possible to find a cheaper electric one that can be used on a jack hammer (look for damper, compactor, tamper).
 It is also possible to automate the construction of the wall as shown here https://www.youtube.com/watch?v=4TXj5IIkUIY 
+
+## Economics
+
+### Human Labour
+This is probably my main concern. The construction of a Earthship using Tires pounding is really huge for a *small* house: 900 to 1000 Tires with let say a lower-bound 1 to 1 hour and half (assuming you a have highly motivated, young and strong crew), it is about 1000 to 1500 hours: it means nearly 125 to 190 days of Tire pounding during 8 hours a day (excluding pauses). This is the part that should be highly automated.
+
+### Reused Materials
+It depends on which place you are, in Western Europe there is some recycling performed with different performances. Typically, I will not consider to use any metal from cans due to metal shortage and the recycling industry works correctly for this specific case. It would be down-recycling to put such metal in the walls as fillers, just use small to medium sized rocks locally available.
+
+### Insulation
+- Windows needs to be well very insulated and probably having a metal film to reduce heat losses. Orientation, micro-climate of the location and shadows during the day due to trees for instance must be taking care, also the surface of the windows needs to be optimized. Having only windows on a side is a problem. For instance in a Warm Temperature Climate it will make sense to have windows on the North.
+- The walls are mostly a kind of *rammed earth*, while providing Thermal mass it provides little insulation. Especially, the massive volume on The back of the house will act has a massive heat-sink during the winter in cold climates. A double wall with an insulator makes sense in such case, however using Tires prevents to choose the correct *width* for the inside walls providing the adequate Thermal mass while making it easy to heat-up during winter. Same comment for the basement insulation and the roof (on a case by case of course). Also you cannot put any insulator, because such walls needs to breath. Article: Design optimization of insulated cavity rammed earth walls for houses in Australia https://www.sciencedirect.com/science/article/abs/pii/S0378778814009396
+
+
 
 
 ## Links
