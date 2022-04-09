@@ -22,10 +22,10 @@ https://www.suncalc.org/#/49.4966,5.985,14/2022.04.05/23:39/1/3 (check More sola
 https://www.sciencedirect.com/topics/engineering/solar-declination
 The idea is to have for the Winter windows perpendicular to the rays so the sun heat up more and during the Summer less heat comes inside the house.
 ![alt text](https://www.researchgate.net/profile/Tafadzwa-Gurupira/publication/328262488/figure/fig3/AS:791102680469505@1565624985902/Illustration-of-the-solar-declination-angle.ppm "Declination")
-Problem with the angle of the windows, structurally not designed to have such a slopped angle, lot of rain/snow can accumulate on it.
-Problem the green-house is not separated physically separated with the home : humidity can be an issue. Most new designs have inside windows to separate from the green-house.
-Ventilation is required to prevent the green-house to become an oven.
-Light in the room can be an issue, probably light wells are required on the roof to have adequate light in the rooms. It depends on the place it is built.
+- Problem with the angle of the windows, structurally not designed to have such a slopped angle, lot of rain/snow can accumulate on it.
+- Problem the green-house is not separated physically separated with the home : humidity can be an issue. Most new designs have inside windows to separate from the green-house.
+- Ventilation is required to prevent the green-house to become an oven.
+- Light in the room can be an issue, probably light wells are required on the roof to have adequate light in the rooms. It depends on the place it is built.
 
 ## Materials
 The goal is to make it cheap and reuse as much material as possible.
@@ -50,8 +50,23 @@ This is probably my main concern. The construction of a Earthship using Tires po
 It depends on which place you are, in Western Europe there is some recycling performed with different performances. Typically, I will not consider to use any metal from cans due to metal shortage and the recycling industry works correctly for this specific case. It would be down-recycling to put such metal in the walls as fillers, just use small to medium sized rocks locally available.
 
 ### Insulation
-- Windows needs to be well very insulated and probably having a metal film to reduce heat losses. Orientation, micro-climate of the location and shadows during the day due to trees for instance must be taking care, also the surface of the windows needs to be optimized. Having only windows on a side is a problem. For instance in a Warm Temperature Climate it will make sense to have windows on the North.
-- The walls are mostly a kind of *rammed earth*, while providing Thermal mass it provides little insulation. Especially, the massive volume on The back of the house will act has a massive heat-sink during the winter in cold climates. A double wall with an insulator makes sense in such case, however using Tires prevents to choose the correct *width* for the inside walls providing the adequate Thermal mass while making it easy to heat-up during winter. Same comment for the basement insulation and the roof (on a case by case of course). Also you cannot put any insulator, because such walls needs to breath. Article: Design optimization of insulated cavity rammed earth walls for houses in Australia https://www.sciencedirect.com/science/article/abs/pii/S0378778814009396
+- Windows needs to be well very insulated and probably having a metal film to reduce heat losses. Orientation, micro-climate of the location and shadows during the day due to trees for instance must be taking care, also the surface of the windows needs to be optimized. Having only windows on a side is a problem. For instance in a Warm Temperature Climate it will make sense to have few windows on the North.
+- The walls are mostly a kind of *rammed earth*, while providing Thermal mass it provides little insulation. Especially, the massive volume on the back of the house will act has a massive heat-sink during the winter in cold climates. A double wall with an insulator makes sense in such case, however using Tires prevents to choose the correct *width* for the inside walls providing the adequate Thermal mass while making it easy to heat-up during winter. Same comment for the floor insulation and the roof (on a case by case of course). Article: Design optimization of insulated cavity rammed earth walls for houses in Australia https://www.sciencedirect.com/science/article/abs/pii/S0378778814009396
+- No floor insulation, typically use a Polyurethane kind of material able to support compressive load.
+
+### Angled Windows 
+- Having angled windows optimized for Winter  means longer windows. Larger windows means: additional cost, additional heat losses. Additional ther issues for rain, snow and a lot of additional heat during the summer due to the orientation.
+
+## Improvements
+
+### Light
+
+- In general there is no window on the Back/North of the Earthship. It is possible to install light wells or tubular skylights on the roof, with additional leakage risks on the roof. You have to be careful on the material used for those, because such items are not really designed with insulation in mind, which is a long term problem. In case of tubular skylights, additional insulation is needed all around the tubes made of metal and additional isolation lens are required.
+
+### Thermal Mass
+- It would be interesting to put a *Trombe* wall between the greenhouse and the room with smaller windows on the room side. This wall accumulates most of the heat during the winter and release it, during the summer it reduces the hot area found in the greenhouse to the rooms and the smaller windows of the room reduce the heat loss.
+- Similar to the previous point, the floor in the corridor and the rooms can be used as thermal mass too see *Kachadorian* floor which as the same property as the *Trombe* wall but without the light reduction issue. Additional work required to have a good insulation under the floor.
+
 
 
 
