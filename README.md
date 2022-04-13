@@ -68,6 +68,19 @@ It depends on which place you are, in Western Europe there is some recycling per
 - Similar to the previous point, the floor in the corridor and the rooms can be used as thermal mass too see *Kachadorian* floor which as the same property as the *Trombe* wall but without the light reduction issue. Additional work required to have a good insulation under the floor.
 
 
+### GeoThermal
+- The large sized cisterns can be used to create a natural airconditioning, using a closed-loop system with a polyethelene tubes around the cisterns and one or more heat-exchangers inside the house with a small pump. The heat exchanger can be built from a cheap automotive water cooling radiator and a large fan. It has the advantage of being compact, efficient and very easy to clean.
+
+### Thermal solar panels
+- The large front can be used also to put a few thermal solar panels for the purpose of the hot water, but it can also be used *on-demand* during the night or the day if the water tank is well insulated, for instance reusing the previous discussed heat-exchangers.  Most likely it will be more effective on Spring and Fall to reduce the need to heat the Earthship.
+
+### Humidity
+- Loam and other Earth based materials can be used to control the humidity inside the building. Loam is also providing a large thermal mass. It can be used in the green house, the bathroom and of course in the rooms (see. *Minke Gernot - Building with earth design and technology of a sustainable architecture*)
+
+### Structure
+- Design for Earth Quakes, stiffer structure for instance Front/South part may need a structural pier every 4 meters, ring beams, shape of the walls ...etc...
+
+
 
 
 
