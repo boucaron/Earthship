@@ -13,6 +13,7 @@ Actually it is an interesting way to build houses having a large amount of windo
 - Playlist: https://www.youtube.com/watch?v=I9jRYHpeAk0&list=PLslKBpzJILeszhgpmnHfNQwoRgAcXYBXr
 - https://www.youtube.com/watch?v=8LjHFAbBJr4
 - https://www.youtube.com/watch?v=wVp5koAOu9M
+- French Language Earthship Tour https://www.youtube.com/watch?v=LqzkyOHF7WQ
 
 
 ## Windows
@@ -52,10 +53,10 @@ It depends on which place you are, in Western Europe there is some recycling per
 ### Insulation
 - Windows needs to be well very insulated and probably having a metal film to reduce heat losses. Orientation, micro-climate of the location and shadows during the day due to trees for instance must be taking care, also the surface of the windows needs to be optimized. Having only windows on a side is a problem. For instance in a Warm Temperature Climate it will make sense to have few windows on the North.
 - The walls are mostly a kind of *rammed earth*, while providing Thermal mass it provides little insulation. Especially, the massive volume on the back of the house will act has a massive heat-sink during the winter in cold climates. A double wall with an insulator makes sense in such case, however using Tires prevents to choose the correct *width* for the inside walls providing the adequate Thermal mass while making it easy to heat-up during winter. Same comment for the floor insulation and the roof (on a case by case of course). Article: Design optimization of insulated cavity rammed earth walls for houses in Australia https://www.sciencedirect.com/science/article/abs/pii/S0378778814009396
-- No floor insulation, typically use a Polyurethane kind of material able to support compressive load.
+- No floor insulation, typically use an insulation material able to support compressive load.
 
 ### Angled Windows 
-- Having angled windows optimized for Winter  means longer windows. Larger windows means: additional cost, additional heat losses. Additional ther issues for rain, snow and a lot of additional heat during the summer due to the orientation.
+- Having angled windows optimized for Winter  means longer windows. Larger windows means: additional cost, additional heat losses. Additional can be issues for the rain, the snow, additional cleanup needed and a lot of additional heat during the summer due to the orientation.
 
 ## Improvements
 
@@ -75,12 +76,15 @@ It depends on which place you are, in Western Europe there is some recycling per
 - The large front can be used also to put a few thermal solar panels for the purpose of the hot water, but it can also be used *on-demand* during the night or the day if the water tank is well insulated, for instance reusing the previous discussed heat-exchangers.  Most likely it will be more effective on Spring and Fall to reduce the need to heat the Earthship.
 
 ### Humidity
-- Loam and other Earth based materials can be used to control the humidity inside the building. Loam is also providing a large thermal mass. It can be used in the green house, the bathroom and of course in the rooms (see. *Minke Gernot - Building with earth design and technology of a sustainable architecture*)
+- Loam mortar can be used to control the humidity inside the building. Loam mortar is also providing a large thermal mass. It can be used in the green house, the bathroom and of course in the rooms (see. *Minke Gernot - Building with earth design and technology of a sustainable architecture*). Of course it needs protection from direct contact with water, Lime based mortar can be used in such case (Takelakt for the bathroom for instance).
+- Loam/Earth based floor in the Greenhouse, same idea Thermal mass and the humidity buffering/regulation.
 
 ### Structure
 - Design for Earth Quakes, stiffer structure for instance Front/South part may need a structural pier every 4 meters, ring beams, shape of the walls ...etc...
 
 
+### Shape/Orientation
+- The shape of the Earthship may be improved according to the orientation, according to the east or to the west, according to other buildings/trees.
 
 
 
