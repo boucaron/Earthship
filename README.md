@@ -45,7 +45,7 @@ It is also possible to automate the construction of the wall as shown here https
 ## Economics
 
 ### Human Labour
-This is probably my main concern. The construction of a Earthship using Tires pounding is really huge for a *small* house: 900 to 1000 Tires with let say a lower-bound 1 to 1 hour and half (assuming you a have highly motivated, young and strong crew), it is about 1000 to 1500 hours: it means nearly 125 to 190 days of Tire pounding during 8 hours a day (excluding pauses). This is the part that should be highly automated.
+This is probably my main concern. The construction of a Earthship using Tires pounding is really huge for a *small* house: 900 to 1000 Tires with let say a lower-bound 20 minutes with 2 persons (one ramming and the other one bringing the dirt - assuming young and strong crew), it is about 360 to 500 hours: it means nearly 90 to 125 Man Days of Tire pounding during 8 hours a day (excluding pauses). This is the part that should be highly automated.
 
 ### Reused Materials
 It depends on which place you are, in Western Europe there is some recycling performed with different performances. Typically, I will not consider to use any metal from cans due to metal shortage and the recycling industry works correctly for this specific case. It would be down-recycling to put such metal in the walls as fillers, just use small to medium sized rocks locally available.
@@ -56,7 +56,7 @@ It depends on which place you are, in Western Europe there is some recycling per
 - No floor insulation, typically use an insulation material able to support compressive load.
 
 ### Angled Windows 
-- Having angled windows optimized for Winter  means longer windows. Larger windows means: additional cost, additional heat losses. Additional can be issues for the rain, the snow, additional cleanup needed and a lot of additional heat during the summer due to the orientation.
+- Having angled windows optimized for Winter  means longer windows. Larger windows means: additional cost, additional heat losses. Additional can be issues for the rain, the snow, additional cleanup needed and a lot of additional heat during the summer due to the orientation. Also, if something fall from the roof, the risk of braking the glass.
 
 ## Improvements
 
