@@ -14,7 +14,6 @@ This Earthship is kind of special because it makes around 300 square meters, it 
 For sure this is quiet incomplete, but I think it contains a resume of the key points that are making a huge difference:
 
 - Insulation: the floor, the roof and the walls are insulated (natural materials based on wood for the wall and the roof, hemp based for the floor)
-too)
 - Light wells in the back of the rooms
 - Clay based material covering walls: humidity buffer and additional thermal mass
 - Earth based floors in the rooms 
@@ -23,7 +22,7 @@ too)
 - 20 Solar Electric panels on the roof (3 lines)
 - Larger corridor and larger volume for the green house, 30 to 40 persons/students can be in the Earthship for lectures and other activities
 - Non angled windows: dual glazed windows, non angled windows are smaller, generating less heat losses (Greenhouse is insulated too)
-- Separation Triple glazed windows for the rooms, improving insulation from the Greenhouse (+ noise insulation)
+- Triple glazed windows for the rooms, improving insulation from the Greenhouse (+ noise insulation)
 - 3 * 10 000 liters cisterns
 
 ## Reuse/Recycling
